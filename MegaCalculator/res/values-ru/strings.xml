@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MegaCalculator</string>
+    
+    <!-- MENU -->
+    <string name="action_settings">Нстройки</string>
+
+</resources>
