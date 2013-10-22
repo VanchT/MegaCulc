@@ -5,5 +5,8 @@
     
     <!-- MENU -->
     <string name="action_settings">Нстройки</string>
+    <string name="btn_simple_calc_text">Простой калькулятор</string>
+    <string name="btn_super_calc_text">Супер калькулятор</string>
+    <string name="btn_expr_calc_text">Вычислитель выражений</string>
 
 </resources>

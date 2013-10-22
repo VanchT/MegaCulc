@@ -7,6 +7,26 @@
     <Button 
         android:id="@+id/btn_simple_calc"
         android:layout_width="@dimen/button_width"
-        android:layout_height="@dimen/button_height"/>
+        android:layout_height="@dimen/button_height"
+        android:text="@string/btn_simple_calc_text"
+        android:layout_above="@+id/btn_super_calc"
+        android:layout_alignLeft="@+id/btn_super_calc"/>
+    
+    <Button 
+        android:id="@+id/btn_super_calc"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:text="@string/btn_super_calc_text"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"/>
+    
+    <Button 
+        android:id="@+id/btn_expression_calc"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:text="@string/btn_expr_calc_text"
+        android:layout_below="@id/btn_super_calc"
+        android:layout_alignLeft="@id/btn_super_calc"/>
     
 </RelativeLayout>
