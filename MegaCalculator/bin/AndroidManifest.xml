@@ -22,9 +22,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.tolkachov.megacalculator.simplecalc.SimpleCalcActivity"></activity>
-        <activity android:name="com.tolkachov.megacalculator.supercalc.SuperCalcActivity"></activity>
-        <activity android:name="com.tolkachov.megacalculator.expressioncalc.ExpressionCalcActivity"></activity>
+        <activity android:name="com.tolkachov.megacalculator.activity.SimpleCalcActivity"></activity>
+        <activity android:name="com.tolkachov.megacalculator.activity.SuperCalcActivity"></activity>
+        <activity android:name="com.tolkachov.megacalculator.activity.ExpressionCalcActivity"></activity>
     </application>
 
 </manifest>

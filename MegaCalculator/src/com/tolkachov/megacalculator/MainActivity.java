@@ -4,8 +4,8 @@ import com.tolkachov.megacalculator.R;
 import com.tolkachov.megacalculator.R.id;
 import com.tolkachov.megacalculator.R.layout;
 import com.tolkachov.megacalculator.R.menu;
-import com.tolkachov.megacalculator.simplecalc.SimpleCalcActivity;
-import com.tolkachov.megacalculator.supercalc.SuperCalcActivity;
+import com.tolkachov.megacalculator.activity.SimpleCalcActivity;
+import com.tolkachov.megacalculator.activity.SuperCalcActivity;
 
 import android.os.Bundle;
 import android.app.Activity;

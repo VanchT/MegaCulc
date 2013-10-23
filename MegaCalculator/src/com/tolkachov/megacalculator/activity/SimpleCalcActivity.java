@@ -1,4 +1,4 @@
-package com.tolkachov.megacalculator.simplecalc;
+package com.tolkachov.megacalculator.activity;
 
 import android.app.Activity;
 
